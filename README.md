@@ -19,6 +19,8 @@ Blanks and the "." are not changed (they are mapped 1:1).
 
 Your program shall implement the following interface
 ```java
+package assignment2_int;
+
 public interface Assignment2 {
    public String translate(String s);
 }
