@@ -1,6 +1,6 @@
-package averkova_ebner;
+package assignment2_int;
 
-public class Translator implements Assignment2{
+public class Translator implements Assignment2 {
    private char currentChar;
    private String s;
    private int counter;
